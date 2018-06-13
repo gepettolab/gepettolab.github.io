@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DeepSketch</title>
-    <link>https://zepetto2016.github.io/</link>
-    <description>Recent content on DeepSketch</description>
+    <title>Notice on DeepSketch</title>
+    <link>https://zepetto2016.github.io/categories/notice/</link>
+    <description>Recent content in Notice on DeepSketch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Jun 2018 16:09:31 +0900</lastBuildDate>
     
-	<atom:link href="https://zepetto2016.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zepetto2016.github.io/categories/notice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

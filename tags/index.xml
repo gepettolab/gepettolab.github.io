@@ -6,9 +6,46 @@
     <description>Recent content in Tags on DeepSketch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jun 2018 16:09:31 +0900</lastBuildDate>
     
 	<atom:link href="https://zepetto2016.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ai</title>
+      <link>https://zepetto2016.github.io/tags/ai/</link>
+      <pubDate>Wed, 13 Jun 2018 16:09:31 +0900</pubDate>
+      
+      <guid>https://zepetto2016.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deeplearning</title>
+      <link>https://zepetto2016.github.io/tags/deeplearning/</link>
+      <pubDate>Wed, 13 Jun 2018 16:09:31 +0900</pubDate>
+      
+      <guid>https://zepetto2016.github.io/tags/deeplearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepsketch</title>
+      <link>https://zepetto2016.github.io/tags/deepsketch/</link>
+      <pubDate>Wed, 13 Jun 2018 16:09:31 +0900</pubDate>
+      
+      <guid>https://zepetto2016.github.io/tags/deepsketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://zepetto2016.github.io/tags/sketch/</link>
+      <pubDate>Wed, 13 Jun 2018 16:09:31 +0900</pubDate>
+      
+      <guid>https://zepetto2016.github.io/tags/sketch/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
