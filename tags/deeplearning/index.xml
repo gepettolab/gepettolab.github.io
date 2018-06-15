@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deeplearning on DeepSketch</title>
-    <link>https://zepetto2016.github.io/tags/deeplearning/</link>
+    <link>https://gepettolab.github.io/tags/deeplearning/</link>
     <description>Recent content in Deeplearning on DeepSketch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Jun 2018 16:09:31 +0900</lastBuildDate>
     
-	<atom:link href="https://zepetto2016.github.io/tags/deeplearning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gepettolab.github.io/tags/deeplearning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to DeepSketch</title>
-      <link>https://zepetto2016.github.io/notice/intro/</link>
+      <link>https://gepettolab.github.io/notice/intro/</link>
       <pubDate>Wed, 13 Jun 2018 16:09:31 +0900</pubDate>
       
-      <guid>https://zepetto2016.github.io/notice/intro/</guid>
+      <guid>https://gepettolab.github.io/notice/intro/</guid>
       <description>What is DeepSketch Sketches like art! We will make your picture a wonderful sketch. A nice sketch created by artificial intelligence
 Using the mobile-optimized artificial intelligence (Deep Learning) technology, you can create beautiful sketch artworks that look like people&amp;rsquo;s drawings.
  Select the desired picture and apply the sketch filter below to sketch the picture. You can save the sketch image or share it with an SNS such as an Instagram.</description>
