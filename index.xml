@@ -1,25 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DeepSketch</title>
+    <title>DeepSketch. Make your own artwork!</title>
     <link>https://gepettolab.github.io/</link>
-    <description>Recent content on DeepSketch</description>
+    <description>Recent content on DeepSketch. Make your own artwork!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jun 2018 16:09:31 +0900</lastBuildDate>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 23 Jun 2018 08:59:06 +0900</lastBuildDate>
     
 	<atom:link href="https://gepettolab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Improved filter speed by 30%</title>
+      <link>https://gepettolab.github.io/blog/2018/06/23/speedup/</link>
+      <pubDate>Sat, 23 Jun 2018 08:59:06 +0900</pubDate>
+      
+      <guid>https://gepettolab.github.io/blog/2018/06/23/speedup/</guid>
+      <description> Change Logs  Improved filter speed by 30%. Improved app stability.  install  Android: playstore iOS: appstore  </description>
+    </item>
+    
+    <item>
       <title>Introduction to DeepSketch</title>
-      <link>https://gepettolab.github.io/notice/intro/</link>
+      <link>https://gepettolab.github.io/blog/2018/06/13/intro/</link>
       <pubDate>Wed, 13 Jun 2018 16:09:31 +0900</pubDate>
       
-      <guid>https://gepettolab.github.io/notice/intro/</guid>
+      <guid>https://gepettolab.github.io/blog/2018/06/13/intro/</guid>
       <description>What is DeepSketch Sketches like art! We will make your picture a wonderful sketch. A nice sketch created by artificial intelligence
 Using the mobile-optimized artificial intelligence (Deep Learning) technology, you can create beautiful sketch artworks that look like people&amp;rsquo;s drawings.
  Select the desired picture and apply the sketch filter below to sketch the picture. You can save the sketch image or share it with an SNS such as an Instagram.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gepettolab.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gepettolab.github.io/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://gepettolab.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gepettolab.github.io/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
   </channel>
