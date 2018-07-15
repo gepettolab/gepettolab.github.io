@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on DeepSketch. Make your own artwork!</title>
+    <link>https://gepettolab.github.io/blog/</link>
+    <description>Recent content in Blogs on DeepSketch. Make your own artwork!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 23 Jun 2018 08:59:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://gepettolab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improved filter speed by 30%</title>
+      <link>https://gepettolab.github.io/blog/2018/06/23/speedup/</link>
+      <pubDate>Sat, 23 Jun 2018 08:59:06 +0900</pubDate>
+      
+      <guid>https://gepettolab.github.io/blog/2018/06/23/speedup/</guid>
+      <description> Change Logs  Improved filter speed by 30%. Improved app stability.  install  Android: playstore iOS: appstore  </description>
+    </item>
+    
+    <item>
+      <title>Introduction to DeepSketch</title>
+      <link>https://gepettolab.github.io/blog/2018/06/13/intro/</link>
+      <pubDate>Wed, 13 Jun 2018 16:09:31 +0900</pubDate>
+      
+      <guid>https://gepettolab.github.io/blog/2018/06/13/intro/</guid>
+      <description>What is DeepSketch Sketches like art! We will make your picture a wonderful sketch. A nice sketch created by artificial intelligence
+Using the mobile-optimized artificial intelligence (Deep Learning) technology, you can create beautiful sketch artworks that look like people&amp;rsquo;s drawings.
+ Select the desired picture and apply the sketch filter below to sketch the picture. You can save the sketch image or share it with an SNS such as an Instagram.</description>
+    </item>
+    
+  </channel>
+</rss>
