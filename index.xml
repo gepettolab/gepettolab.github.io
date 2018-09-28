@@ -6,10 +6,20 @@
     <description>Recent content on DeepSketch. Make your own artwork!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 23 Jun 2018 08:59:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 19:40:53 +0900</lastBuildDate>
     
 	<atom:link href="https://gepettolab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://gepettolab.github.io/privacy/</link>
+      <pubDate>Fri, 28 Sep 2018 19:40:53 +0900</pubDate>
+      
+      <guid>https://gepettolab.github.io/privacy/</guid>
+      <description>Privacy Policy Welcome to DeepSketch (“DeepSketch,” “we,” “us” or “our”). DeepSketch provides a fast, beautiful way for you to sketch-like-stylize your photo. Just snap a photo, choose a filter to transform the look and feel, and share!
+Our Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with DeepSketch services (collectively, the “Service”), and your choices about the collection and use of your information.</description>
+    </item>
     
     <item>
       <title>Improved filter speed by 30%</title>
